@@ -42,6 +42,6 @@
     left: 0px;
     justify-content: space-around;
     align-items: center;
-    transition: top 0.5s linear;
+    transition: top 0.2s linear;
   }
 }
